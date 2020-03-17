@@ -1,10 +1,10 @@
 #Installing Bokeh (Shell/Terminal Code)
 
-conda install bokeh
-
-pip install bokeh
-
-pip3 install bokeh
+# conda install bokeh
+#
+# pip install bokeh
+#
+# pip3 install bokeh
 
 
 
